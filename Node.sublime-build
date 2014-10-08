@@ -1,0 +1,5 @@
+{
+"cmd": ["/usr/local/bin/node", "$file"],
+"working_dir": "${project_path:${folder}}",
+"selector": "source.js"
+}
