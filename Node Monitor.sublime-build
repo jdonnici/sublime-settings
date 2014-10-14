@@ -1,0 +1,9 @@
+{
+    "shell": true,
+    "cmd": ["nodemon", "$file", "$file_base_name"],
+    "env": {
+        "env_var_name": "env_var_value"
+        },
+    "working_dir": "${project_path:${folder}}",
+    "selector": "nodemon.js"
+}
