@@ -2,8 +2,9 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"Auto Semi-Colon",
 		"BracketHighlighter",
-		"Git",
+		"HTML-CSS-JS Prettify",
 		"JavaScriptNext - ES6 Syntax",
 		"MarkdownEditing",
 		"RailsCasts Colour Scheme",
