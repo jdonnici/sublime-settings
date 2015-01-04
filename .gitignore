@@ -1,5 +1,7 @@
 *.last-run
 *.system-ca-bundle
+*.user-ca-bundle
+*.merged-ca-bundle
 *.cache
 
 # cache files for sublime text
