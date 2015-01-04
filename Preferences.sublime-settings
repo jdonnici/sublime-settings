@@ -3,7 +3,7 @@
 	"auto_complete_commit_on_tab": true,
 	"auto_complete_with_fields": true,
 	"bold_folder_labels": true,
-	"caret_extra_width": 3,
+	"caret_extra_width": 1,
 	"caret_style": "smooth",
 	"color_scheme": "Packages/User/Jeff Sunburst.tmTheme",
 	"detect_indentation": true,
@@ -30,8 +30,8 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"Markdown"
+		"Markdown",
+		"Vintage"
 	],
 	"indent_guide_options":
 	[
@@ -42,7 +42,7 @@
 	"line_padding_top": 1,
 	"rulers":
 	[
-		70
+		80
 	],
 	"tab_size": 2,
 	"theme": "Spacegray.sublime-theme",
@@ -50,5 +50,5 @@
 	"trim_trailing_white_space_on_save": false,
 	"wide_caret": true,
 	"word_wrap": true,
-	"wrap_width": 70
+	"wrap_width": 80
 }
