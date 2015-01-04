@@ -2,13 +2,16 @@
 	"auto_complete": true,
 	"auto_complete_commit_on_tab": true,
 	"auto_complete_with_fields": true,
+	"auto_match_enabled": true,
 	"bold_folder_labels": true,
 	"caret_extra_width": 1,
 	"caret_style": "smooth",
 	"color_scheme": "Packages/User/Jeff Sunburst.tmTheme",
 	"detect_indentation": true,
 	"draw_minimap_border": true,
+	"draw_indent_guides": true,
 	"fade_fold_buttons": false,
+	"find_selected_text": true,
 	"folder_exclude_patterns":
 	[
 		".svn",
@@ -48,6 +51,7 @@
 	"theme": "Spacegray.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": false,
+	"use_simple_full_screen": true,
 	"wide_caret": true,
 	"word_wrap": true,
 	"wrap_width": 80
