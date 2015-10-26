@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -7,6 +8,7 @@
 		"Alignment",
 		"Auto Semi-Colon",
 		"BracketHighlighter",
+		"Git",
 		"HTML-CSS-JS Prettify",
 		"JavaScriptNext - ES6 Syntax",
 		"MarkdownEditing",
