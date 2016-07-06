@@ -1,16 +1,18 @@
 {
   "auto_match_enabled": true,
   "caret_extra_width": 1,
-  "caret_style": "smooth",  "color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
+  "caret_style": "smooth",  
+  "color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
+  "draw_centered": false,
   "extensions":
   [
-    "md"
+    "mds"
   ],
   "highlight_line": true,
   "line_numbers": true,
   "mde.distraction_free_mode":
   {
-    "mde.keep_centered": true
+    "mde.keep_centered": false
   },
   "mde.keep_centered": false,
   "mde.list_indent_auto_switch_bullet": true,
@@ -24,7 +26,7 @@
   "rulers":
   [
   ],
-  "tab_size": 4,
+  "tab_size": 2,
   "translate_tabs_to_spaces": true,
   "trim_trailing_white_space_on_save": false,
   "word_wrap": true,
