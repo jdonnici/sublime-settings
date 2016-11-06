@@ -28,7 +28,7 @@
 		"no_bold",
 		"subpixel_antialias"
 	],
-	"font_size": 17,
+	"font_size": 19,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignore_vcs_packages": true,
@@ -47,8 +47,9 @@
 	"open_files_in_new_window": false,
 	"rulers":
 	[
-		90
+		100
 	],
+	"show_definitions": true,
 	"sidebar_size_13": true,
 	"status_bar_brighter": true,
 	"tab_size": 2,
@@ -59,5 +60,5 @@
 	"use_simple_full_screen": true,
 	"wide_caret": true,
 	"word_wrap": true,
-	"wrap_width": 80
+	"wrap_width": 90
 }

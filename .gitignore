@@ -18,6 +18,3 @@
 
 # sftp configuration file
 sftp-config.json
-
-# Evernote package config file
-Evernote.sublime-settings

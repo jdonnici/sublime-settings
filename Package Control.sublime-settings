@@ -6,10 +6,8 @@
 	"installed_packages":
 	[
 		"Alignment",
-		"Auto Semi-Colon",
 		"BracketHighlighter",
 		"Evernote",
-		"Git",
 		"HTML-CSS-JS Prettify",
 		"JavaScriptNext - ES6 Syntax",
 		"JsFormat",
@@ -17,8 +15,11 @@
 		"MapfileSyntax",
 		"MarkdownEditing",
 		"Monokai Extended",
+		"Monokai JSON+",
 		"Package Control",
 		"PackageResourceViewer",
+		"Pretty JSON",
+		"Swift",
 		"Theme - Afterglow",
 		"Theme - Flatland",
 		"Theme - Spacegray"
