@@ -7,6 +7,7 @@
 	[
 		"Alignment",
 		"BracketHighlighter",
+		"Compare Side-By-Side",
 		"Djaneiro",
 		"HTML-CSS-JS Prettify",
 		"JavaScriptNext - ES6 Syntax",
@@ -18,7 +19,9 @@
 		"Monokai JSON+",
 		"Package Control",
 		"PackageResourceViewer",
+		"PostgreSQL Syntax Highlighting",
 		"Pretty JSON",
+		"SideBarEnhancements",
 		"Sublime Tutor",
 		"Theme - Afterglow",
 		"Theme - Flatland",
